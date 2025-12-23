@@ -49,7 +49,7 @@ To prevent "Thread Exhaustion" and protect system memory:
 
 ---
 
-## 🚦 API Reference
+## 🚦 API References
 
 ### 1. Submit a Task
 **POST** `/api/tasks`  
